@@ -70,26 +70,23 @@ Contributions to improve **PRODIGY_AD_01** are welcome! If you have ideas or sug
 
 ### How to Contribute:
 
-1. **Fork the Repository**
+1. **Fork the Repository.**
 
 2. **Create a New Branch**:
+  ```bash
+   git checkout -b feature/your-feature
+  ```
+3. **Make Your Changes.**
 
-bash
-Copy code
-git checkout -b feature/your-feature
-Make Your Changes.
-
-Commit Your Changes:
-
-bash
-Copy code
-git commit -am 'Add new feature'
-Push to the Branch:
-
-bash
-Copy code
-git push origin feature/your-feature
-Open a Pull Request.
+4. **Commit Your Changes**:
+  ```bash
+   git commit -am 'Add new feature'
+  ```
+5. **Push to the Branch**:
+  ```bash
+   git push origin feature/your-feature
+  ```
+6. **Open a Pull Request.**
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
