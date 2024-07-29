@@ -1,6 +1,6 @@
 # PRODIGY_AD_01
 
-Welcome to **PRODIGY_AD_01**, a simple yet effective calculator application! This app provides essential arithmetic functionalities and includes a convenient day/night mode toggle to enhance user experience across different lighting conditions.
+Welcome to **PRODIGY_AD_01**, a simple yet effective calculator application! This app provides essential arithmetic functionalities and includes a convenient day/night mode toggle to enhance user experience across different lighting conditions. This is a project I created while interning at Prodigy Infotech for Android Development.
 
 ## Features
 
