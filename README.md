@@ -88,14 +88,15 @@ Contributions to improve **PRODIGY_AD_01** are welcome! If you have ideas or sug
   ```
 6. **Open a Pull Request.**
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Contact
+### Contact
 For questions or support, feel free to reach out:
 
-Email: your-email@example.com
-GitHub: your-username
+**Email**: dasguptaananyo28@example.com
+
+**GitHub**: CodenWizFreak
 
        
   
